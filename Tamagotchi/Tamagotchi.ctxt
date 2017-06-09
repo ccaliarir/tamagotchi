@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nome\ idade\ peso
+comment0.target=Tamagotchi(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getW()
+comment10.params=e
+comment10.target=void\ ficarEntediado(int)
+comment11.params=f
+comment11.target=void\ sentirFome(int)
+comment2.params=w
+comment2.target=void\ setW(int)
+comment3.params=
+comment3.target=int\ getIdade()
+comment4.params=
+comment4.target=int\ getPeso()
+comment5.params=peso
+comment5.target=void\ setPeso(int)
+comment6.params=idade
+comment6.target=void\ setIdade(int)
+comment7.params=
+comment7.target=void\ verificaPeso()
+comment8.params=
+comment8.target=void\ imprimeInfo()
+comment9.params=s
+comment9.target=void\ sentirSono(int)
+numComments=12
